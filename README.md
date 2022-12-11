@@ -1,6 +1,6 @@
 # Breeding season management is unlikely to improve population viability of a data-deficient migratory species in decline
 
-##[Kayla L. Davis](https://github.com/davisk93), [Sarah P. Saunders](https://github.com/saund123), Stephanie Beilke, Erin Rowan Ford, Jennifer Fuller, Ava Landgraf, [Elise F. Zipkin](https://zipkinlab.org/)
+## [Kayla L. Davis](https://github.com/davisk93), [Sarah P. Saunders](https://github.com/saund123), Stephanie Beilke, Erin Rowan Ford, Jennifer Fuller, Ava Landgraf, [Elise F. Zipkin](https://zipkinlab.org/)
 
 Please contact the first author for questions about the code or data: Kayla L. Davis (davisk93@msu.edu).
 __________________________________________________________________________________________________________________
