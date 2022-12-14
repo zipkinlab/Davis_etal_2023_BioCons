@@ -1,13 +1,13 @@
-### Results files
+# Results files
 
 ## Code
 [FigureCode_github.R](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/FigureCode_github.R) = R script containing code to recreate figures 2 and 3 and table 1 data from the manuscript.
 
 ## R data files
-# IPM results
+### IPM results
 [scf.Rdata](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/scf.Rdata) = IPM results for St. Clair Flats black terns. These data were used to create Fig. 2.
 
-# BPVA results
+### BPVA results
 [nao.lt.Rdata](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/nao.lt.Rdata) = BPVA results for model using 100-yr NAOI mean and no additional management scenario
 
 [nao.lt.all.Rdata](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/nao.lt.all.Rdata) = BPVA results for model using 100-yr NAOI mean and combined adult survival, juvenile survival, and fecundity management scenario
