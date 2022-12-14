@@ -13,11 +13,16 @@ A major challenge in conservation is developing effective approaches to mitigate
 
 ## Data
 [SCF-IPM_github.xlsx](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/SCF-IPM_github.xlsx) = Population count data used in the IPM for St. Clair Flats black terns 
+
 [SCF_AHY13to22_update.txt](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/SCF_AHY13to22_update.txt) = Capture histories of black terns marked as adults at St. Clair Flats
+
 [SCF_HY13to22_update.txt](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/SCF_HY13to22_update.txt) = Capture histories of black terns marked as chicks at St. Clair Flats
+
 [YearCovs.csv](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/YearCovs.csv) = Yearly covariates used in the IPM. Only nao_hur (mean value during January-June in year t-1) was supported and used in the final version of the model.
+
 [Hist_NAO_Means.csv](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Hist_NAO_Means.csv) = Historic values of the North Atlantic Oscillation index during January-June since 1899. We calculated 100-yr (1922-2021) and 10-yr (2012-2021) means of the index to use as priors in the Bayesian population viability analysis (BPVA).
 
 ## Code
 [BLTE_SCF_Github.R](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/BLTE_SCF_Github.R) = R script containing model code for the IPM and BPVA examining differing management regimes for black terns under two future climate scenarios. 
+
 [Results](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Results) = This folder contains model results as R data files and code to create figures from the paper. 
