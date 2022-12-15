@@ -2,7 +2,7 @@
 # Integrated population model (IPM) for St. Clair Flats Black Terns, 2013 - 2022
 # Kayla Davis, Sarah Saunders, Stephanie Beilke, Erin Ford, Jenni Fuller, Ava Landgraf, and Elise Zipkin
 
-# Adapted from original scripts by Michael Schaub & Marc Kéry (2021)
+# Adapted from original scripts by Michael Schaub & Marc KÃ©ry (2021)
 # Modified by K. Davis, 2022
 
 ########################################################################################
@@ -138,7 +138,7 @@ R_tag <- dat1$NumberTagged # number of fledglings tagged
 ########################################################################
 
 # read in covariate data (top supported model only)
-yeareffects = read.csv("CovData/YearCovs.csv", header=T, sep=',', na.strings=T)
+yeareffects = read.csv("YearCovs.csv", header=T, sep=',', na.strings=T)
 
 # adult survival covs
 nao_hur = yeareffects$nao_jan.jun
@@ -161,7 +161,7 @@ znao_hur <- as.vector(scale(nao_hur))
 # Integrated population model (IPM) for St. Clair Flats Black Terns
 # Code by Kayla Davis, Michigan State University, 2022
 # Data provided by Detroit Audubon
-# Adapted from original scripts by Michael Schaub & Marc Kéry (2021)
+# Adapted from original scripts by Michael Schaub & Marc KÃ©ry (2021)
 # Modified by K. Davis, 2022
 # See main text for full description of modeling framework
 #
@@ -420,7 +420,7 @@ MCMCsummary(scf,
 ##################################################
 
 ## Read in data
-nao_all <- read.csv("CovData/Hist_NAO_Means.csv", stringsAsFactors = FALSE)
+nao_all <- read.csv("Hist_NAO_Means.csv", stringsAsFactors = FALSE)
 st.mean <- mean(nao_all$NAO_Jan_Jun_Mean[114:123])
 lt.mean <- mean(nao_all$NAO_Jan_Jun_Mean[24:123])
 
