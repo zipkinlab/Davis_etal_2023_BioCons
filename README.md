@@ -27,9 +27,9 @@ A major challenge in conservation is developing effective approaches to mitigate
 
 [Results](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Results) = This folder contains model results as R data files and code to create figures from the paper. 
 
-[Appendix C](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Appendix C) = This folder contains code and data to recreate Appendix C from the paper.
+[Appendix C](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Appendix%20C) = This folder contains code and data to recreate Appendix C from the paper.
 
-[Appendix D](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Appendix D) = This folder contains code and data to recreate Appendix D from the paper.
+[Appendix D](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Appendix%20D) = This folder contains code and data to recreate Appendix D from the paper.
 
 
 
