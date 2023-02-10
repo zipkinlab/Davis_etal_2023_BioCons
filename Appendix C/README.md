@@ -1,4 +1,4 @@
-# Results files
+# Appendix C files
 
 ## Code
 [AppC.R](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/tree/main/Appendix%20C) = R script containing code to recreate the weak, positive NAOI trend BPVA and results from Appendix C.
