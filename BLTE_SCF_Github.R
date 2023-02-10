@@ -1206,7 +1206,7 @@ model {
     
     for (t in nyears:(nyears-1+K)){         #pull future NAO values from prior
     nao.pre[t] ~ dnorm(st.mean,tau.nao)     #use short term mean(st.mean) or long term mean (lt.mean) here   
-    nao.fut[t] <- (nao.pre[t] - mnao)/sdnao #standardize?
+    nao.fut[t] <- (nao.pre[t] - mnao)/sdnao 
     }
     
     
