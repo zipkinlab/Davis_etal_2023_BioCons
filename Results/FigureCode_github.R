@@ -2,10 +2,10 @@
 # Integrated population model (IPM) for St. Clair Flats Black Terns, 2013 - 2022
 # Kayla Davis, Sarah Saunders, Stephanie Beilke, Erin Ford, Jenni Fuller, Ava Landgraf, and Elise Zipkin
 
-# Adapted from original scripts by Michael Schaub & Marc Kéry (2021)
+# Adapted from original scripts by Michael Schaub & Marc KÃ©ry (2021)
 # Modified by K. Davis, 2022
 
-# Post-processing to create figures (2 & 3) and table 1 data from the main text
+# Post-processing to create figures (2 & 3) and table 2 data from the main text
 
 ########################################################################################
 
