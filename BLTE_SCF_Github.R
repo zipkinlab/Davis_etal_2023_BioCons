@@ -122,7 +122,7 @@ marray.a <- CH.A.marray
 # Population count data
 ########################################################################
 
-dat1 <- read.xlsx("SCF-IPM.xlsx")
+dat1 <- read.xlsx("SCF-IPM_github.xlsx")
 
 # breeding pairs and productivity
 year <- dat1$Year
