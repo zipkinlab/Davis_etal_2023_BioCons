@@ -1,7 +1,7 @@
 # Results files
 
 ## Code
-[FigureCode_github.R](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/FigureCode_github.R) = R script containing code to recreate figures 2 and 3 and table 1 data from the manuscript.
+[FigureCode_github.R](https://github.com/davisk93/Davis-et-al_BLTE-IPM-BPVA/blob/main/Results/FigureCode_github.R) = R script containing code to recreate Figures 2 and 3 and Table 2 data from the manuscript.
 
 ## R data files
 ### IPM results
