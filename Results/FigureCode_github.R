@@ -21,7 +21,7 @@ library(plotrix)
 
 # Population count data ----------------------------------------------------------------------------------------------------------------------------------------
 
-dat1 <- read.xlsx("SCF-IPM.xlsx")
+dat1 <- read.xlsx("SCF-IPM_github.xlsx") # use data file from analysis
 
 # breeding pairs and productivity
 year <- dat1$Year
