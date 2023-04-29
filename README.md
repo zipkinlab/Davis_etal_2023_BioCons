@@ -4,7 +4,7 @@
 
 ### 
 
-### Code/Data DOI: TBA upon publication
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/576952086.svg)](https://zenodo.org/badge/latestdoi/576952086)
 
 ### Please contact the first author for questions about the code or data: Kayla L. Davis (davisk93@msu.edu).
 __________________________________________________________________________________________________________________
