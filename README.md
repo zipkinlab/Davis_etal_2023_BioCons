@@ -1,4 +1,4 @@
-# Breeding season management is unlikely to improve population viability of a data-deficient migratory species in decline
+# [Breeding season management is unlikely to improve population viability of a data-deficient migratory species in decline](https://www-sciencedirect-com.proxy2.cl.msu.edu/science/article/pii/S0006320723002057)
 
 ### [Kayla L. Davis](https://github.com/davisk93), [Sarah P. Saunders](https://github.com/saund123), Stephanie Beilke, Erin Rowan Ford, Jennifer Fuller, Ava Landgraf, [Elise F. Zipkin](https://zipkinlab.org/)
 
