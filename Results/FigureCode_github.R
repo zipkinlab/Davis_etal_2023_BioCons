@@ -93,9 +93,6 @@ T <- nyears-3
 for (t in 1:T){
   lower[t] <- quantile(scf$sims.list$phij[,t], 0.025)
   upper[t] <- quantile(scf$sims.list$phij[,t], 0.975)}
-for (t in 1:T){
-  lowerphij[t] <- quantile(scf$sims.list$mphij[,t], 0.025)
-  upperphij[t] <- quantile(scf$sims.list$mphij[,t], 0.975)}
 plot(0,0, ylim = c(0, 0.6), xlim = c(1,8), xaxt = "n", ylab = "Juvenile survival probability", xlab = "", axes = F, cex = 1.1, frame = F, lwd = 1.3)
 axis(2)
 axis(1, at = 1:(T+1), labels = 2015:2022)
