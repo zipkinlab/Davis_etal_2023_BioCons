@@ -67,8 +67,8 @@ corner.label("(a)", font=2, cex=1.5, xoff=0.2)
 lower <- upper <- numeric()
 T <- nyears
 for (t in 1:T){
-  lower[t] <- quantile(scf$sims.list$F[,t], 0.025)
-  upper[t] <- quantile(scf$sims.list$F[,t], 0.975)}
+  lower[t] <- quantile(scf$sims.list$f1[,t], 0.025)
+  upper[t] <- quantile(scf$sims.list$f1[,t], 0.975)}
 lowerf2 <- upperf2 <- numeric()
 for (t in 1:T){
   lowerf2[t] <- quantile(scf$sims.list$f2[,t], 0.025)
