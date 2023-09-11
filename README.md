@@ -2,7 +2,7 @@
 
 ### [Kayla L. Davis](https://github.com/davisk93), [Sarah P. Saunders](https://github.com/saund123), Stephanie Beilke, Erin Rowan Ford, Jennifer Fuller, Ava Landgraf, [Elise F. Zipkin](https://zipkinlab.org/)
 
-### 
+### Biological Conservation [10.1016/j.biocon.2023.110104](https://doi.org/10.1016/j.biocon.2023.110104)
 
 ### Code/Data DOI: [![DOI](https://zenodo.org/badge/576952086.svg)](https://zenodo.org/badge/latestdoi/576952086)
 
